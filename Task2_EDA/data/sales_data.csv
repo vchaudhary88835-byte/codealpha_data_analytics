@@ -1,0 +1,301 @@
+order_id,date,region,category,product,quantity,unit_price,discount_rate,revenue,cost,profit,customer_type
+ORD1230,2025-01-01,South,Books,Notebook,2,12.56,0.15,21.36,14.05,7.31,New
+ORD1243,2025-01-02,East,Clothing,Jeans,3,23.46,0.1,63.34,54.06,9.28,Returning
+ORD1159,2025-01-05,South,Electronics,Headphones,2,179.77,0.0,359.54,189.19,170.35,Returning
+ORD1223,2025-01-05,West,Electronics,Mouse,4,168.45,0.05,640.11,453.4,186.71,Returning
+ORD1272,2025-01-05,West,Home & Kitchen,Desk Lamp,1,8.3,0.05,7.88,4.04,3.84,New
+ORD1211,2025-01-06,East,Sports,Skipping Rope,1,13.4,0.05,12.73,8.52,4.21,New
+ORD1183,2025-01-06,East,Electronics,Mouse,2,46.88,0.0,93.76,69.37,24.39,New
+ORD1073,2025-01-08,North,Clothing,Jeans,4,33.78,0.1,121.63,84.9,36.73,New
+ORD1206,2025-01-08,North,Sports,Skipping Rope,2,41.59,0.15,70.7,64.31,6.39,New
+ORD1295,2025-01-09,North,Electronics,Headphones,1,170.99,0.0,170.99,107.93,63.06,New
+ORD1104,2025-01-10,North,Home & Kitchen,Bottle,1,62.59,0.0,62.59,30.81,31.78,New
+ORD1190,2025-01-11,South,Books,Planner,2,31.24,0.0,62.48,40.58,21.9,New
+ORD1101,2025-01-11,East,Home & Kitchen,Storage Box,2,14.33,0.1,25.79,16.19,9.6,Returning
+ORD1228,2025-01-11,West,Electronics,Headphones,1,24.56,0.15,20.88,14.76,6.12,Returning
+ORD1240,2025-01-11,West,Electronics,Headphones,4,169.85,0.1,611.48,416.05,195.43,New
+ORD1280,2025-01-13,West,Sports,Yoga Mat,5,72.98,0.05,346.65,183.71,162.94,Returning
+ORD1087,2025-01-14,North,Sports,Water Bottle,4,72.46,0.1,260.86,214.5,46.36,Returning
+ORD1054,2025-01-16,West,Home & Kitchen,Cookware,2,23.87,0.0,47.73,25.03,22.7,New
+ORD1031,2025-01-16,East,Books,Planner,3,10.19,0.1,27.52,21.24,6.28,New
+ORD1239,2025-01-18,East,Sports,Yoga Mat,2,9.49,0.1,17.08,10.85,6.23,Returning
+ORD1283,2025-01-18,North,Electronics,Keyboard,2,91.55,0.15,155.63,128.21,27.42,Returning
+ORD1070,2025-01-18,East,Home & Kitchen,Cookware,1,30.1,0.05,28.6,16.49,12.11,New
+ORD1291,2025-01-18,West,Electronics,Mouse,3,71.9,0.0,215.69,110.02,105.67,Returning
+ORD1166,2025-01-18,North,Electronics,Mouse,1,15.09,0.0,15.09,10.75,4.34,Returning
+ORD1217,2025-01-18,West,Clothing,T-Shirt,4,81.36,0.0,325.46,167.03,158.43,New
+ORD1187,2025-01-19,East,Books,Programming Book,2,29.63,0.15,50.37,39.07,11.3,New
+ORD1299,2025-01-19,West,Home & Kitchen,Storage Box,2,48.01,0.05,91.21,56.49,34.72,New
+ORD1177,2025-01-19,South,Electronics,Keyboard,4,50.33,0.0,201.3,109.12,92.18,New
+ORD1250,2025-01-19,South,Sports,Football,4,49.85,0.1,179.47,127.52,51.95,New
+ORD1162,2025-01-20,North,Books,Planner,4,34.75,0.15,118.16,88.26,29.9,Returning
+ORD1220,2025-01-20,West,Books,Novel,1,18.91,0.1,17.02,13.32,3.7,New
+ORD1113,2025-01-21,East,Sports,Yoga Mat,2,62.11,0.0,124.22,89.41,34.81,New
+ORD1271,2025-01-21,North,Electronics,Headphones,4,106.41,0.0,425.63,244.7,180.93,Returning
+ORD1204,2025-01-21,North,Clothing,Jeans,3,39.68,0.0,119.04,71.12,47.92,New
+ORD1036,2025-01-21,East,Sports,Skipping Rope,4,34.47,0.0,137.87,83.79,54.08,Returning
+ORD1226,2025-01-22,West,Electronics,Headphones,4,154.89,0.15,526.64,459.64,67.0,New
+ORD1261,2025-01-22,North,Sports,Skipping Rope,3,42.48,0.05,121.06,89.36,31.7,New
+ORD1209,2025-01-23,East,Electronics,Keyboard,3,171.04,0.0,513.12,364.95,148.17,New
+ORD1284,2025-01-23,South,Home & Kitchen,Bottle,5,19.5,0.05,92.63,73.91,18.72,Returning
+ORD1016,2025-01-23,South,Books,Planner,3,12.44,0.0,37.32,28.02,9.3,New
+ORD1208,2025-01-23,South,Electronics,Mouse,5,116.94,0.1,526.21,447.07,79.14,New
+ORD1072,2025-01-24,West,Clothing,Hoodie,2,50.04,0.1,90.08,74.66,15.42,New
+ORD1235,2025-01-24,North,Home & Kitchen,Cookware,4,50.27,0.0,201.1,124.77,76.33,New
+ORD1193,2025-01-24,North,Sports,Water Bottle,4,35.32,0.0,141.29,85.52,55.77,Returning
+ORD1282,2025-01-24,East,Sports,Water Bottle,3,41.18,0.0,123.53,95.23,28.3,New
+ORD1195,2025-01-25,North,Books,Programming Book,1,24.72,0.0,24.72,16.45,8.27,New
+ORD1059,2025-01-25,East,Home & Kitchen,Cookware,5,11.39,0.15,48.39,38.69,9.7,New
+ORD1085,2025-01-26,East,Electronics,Keyboard,1,168.03,0.0,168.03,96.16,71.87,New
+ORD1278,2025-01-26,West,Electronics,Power Bank,2,90.06,0.0,180.12,96.0,84.12,Returning
+ORD1115,2025-01-27,East,Books,Planner,4,26.9,0.0,107.58,80.37,27.21,New
+ORD1120,2025-01-27,South,Clothing,Hoodie,4,54.49,0.1,196.16,168.92,27.24,New
+ORD1144,2025-01-28,West,Home & Kitchen,Cookware,1,14.14,0.05,13.43,8.45,4.98,New
+ORD1088,2025-01-28,South,Home & Kitchen,Desk Lamp,3,44.25,0.15,112.83,102.92,9.91,Returning
+ORD1294,2025-01-28,West,Electronics,Headphones,3,154.04,0.0,462.11,288.33,173.78,New
+ORD1110,2025-01-28,North,Electronics,Headphones,5,16.53,0.0,82.64,40.44,42.2,Returning
+ORD1106,2025-01-28,North,Books,Notebook,2,13.36,0.0,26.73,16.17,10.56,New
+ORD1265,2025-01-29,West,Home & Kitchen,Storage Box,4,18.84,0.15,64.06,47.48,16.58,Returning
+ORD1174,2025-01-30,South,Books,Notebook,3,15.95,0.0,47.84,30.45,17.39,New
+ORD1218,2025-01-31,East,Electronics,Keyboard,2,102.35,0.1,184.23,144.96,39.27,New
+ORD1138,2025-02-02,West,Clothing,Jeans,3,43.63,0.0,130.9,67.77,63.13,New
+ORD1196,2025-02-03,North,Clothing,Sneakers,2,19.45,0.0,38.9,22.69,16.21,Returning
+ORD1119,2025-02-03,East,Clothing,T-Shirt,2,79.66,0.0,159.32,105.66,53.66,New
+ORD1214,2025-02-04,West,Books,Programming Book,4,28.23,0.0,112.94,75.82,37.12,Returning
+ORD1109,2025-02-04,North,Home & Kitchen,Bottle,5,7.91,0.05,37.59,27.44,10.15,New
+ORD1264,2025-02-05,South,Clothing,Sneakers,1,85.17,0.0,85.17,56.89,28.28,Returning
+ORD1039,2025-02-05,North,Home & Kitchen,Desk Lamp,1,11.93,0.0,11.93,5.92,6.01,New
+ORD1168,2025-02-06,East,Electronics,Keyboard,2,136.74,0.0,273.47,192.99,80.48,Returning
+ORD1189,2025-02-06,South,Clothing,T-Shirt,1,68.96,0.1,62.07,43.37,18.7,New
+ORD1203,2025-02-08,West,Electronics,Power Bank,4,105.04,0.05,399.14,314.97,84.17,Returning
+ORD1090,2025-02-09,East,Clothing,Jeans,5,41.75,0.1,187.87,105.51,82.36,Returning
+ORD1097,2025-02-09,South,Sports,Skipping Rope,4,47.07,0.0,188.28,142.07,46.21,New
+ORD1244,2025-02-09,North,Sports,Football,2,50.04,0.05,95.07,77.66,17.41,New
+ORD1297,2025-02-10,North,Home & Kitchen,Storage Box,5,28.39,0.05,134.87,109.73,25.14,New
+ORD1158,2025-02-12,North,Electronics,Keyboard,1,70.46,0.1,63.42,51.56,11.86,Returning
+ORD1130,2025-02-12,South,Clothing,T-Shirt,5,61.51,0.05,292.16,157.83,134.33,New
+ORD1164,2025-02-12,East,Books,Programming Book,5,29.46,0.0,147.29,84.91,62.38,Returning
+ORD1075,2025-02-13,East,Electronics,Keyboard,5,156.33,0.0,781.65,411.21,370.44,New
+ORD1160,2025-02-14,South,Sports,Football,5,10.81,0.0,54.03,38.75,15.28,Returning
+ORD1257,2025-02-14,South,Electronics,Keyboard,4,165.12,0.0,660.47,429.73,230.74,New
+ORD1207,2025-02-16,East,Electronics,Power Bank,1,47.2,0.05,44.84,35.57,9.27,Returning
+ORD1102,2025-02-16,West,Books,Programming Book,3,18.76,0.15,47.85,38.41,9.44,Returning
+ORD1116,2025-02-17,North,Electronics,Mouse,4,43.54,0.05,165.44,135.4,30.04,New
+ORD1003,2025-02-19,East,Home & Kitchen,Storage Box,2,38.28,0.0,76.55,55.75,20.8,Returning
+ORD1287,2025-02-20,North,Sports,Football,4,14.0,0.1,50.39,35.09,15.3,New
+ORD1213,2025-02-20,South,Clothing,Hoodie,1,88.47,0.05,84.05,66.27,17.78,New
+ORD1151,2025-02-20,East,Clothing,T-Shirt,1,30.56,0.0,30.56,17.27,13.29,Returning
+ORD1143,2025-02-20,South,Sports,Water Bottle,3,50.09,0.0,150.28,116.92,33.36,New
+ORD1111,2025-02-20,West,Home & Kitchen,Bottle,3,40.41,0.1,109.11,58.37,50.74,Returning
+ORD1173,2025-02-21,South,Electronics,Mouse,1,114.26,0.05,108.54,63.76,44.78,Returning
+ORD1252,2025-02-22,North,Sports,Yoga Mat,5,69.61,0.0,348.05,184.73,163.32,New
+ORD1146,2025-02-22,West,Electronics,Headphones,4,154.59,0.0,618.36,380.23,238.13,Returning
+ORD1019,2025-02-23,West,Home & Kitchen,Desk Lamp,1,11.2,0.05,10.64,5.95,4.69,Returning
+ORD1024,2025-02-25,West,Sports,Skipping Rope,2,8.58,0.05,16.3,10.15,6.15,Returning
+ORD1285,2025-02-25,North,Sports,Water Bottle,1,12.1,0.1,10.89,7.04,3.85,New
+ORD1155,2025-02-26,West,Clothing,Sneakers,2,28.02,0.15,47.64,42.44,5.2,Returning
+ORD1205,2025-02-26,North,Books,Programming Book,3,32.85,0.05,93.63,48.35,45.28,New
+ORD1029,2025-02-27,West,Clothing,Hoodie,5,24.11,0.0,120.54,85.97,34.57,New
+ORD1286,2025-02-27,West,Books,Novel,2,14.39,0.1,25.9,18.3,7.6,New
+ORD1103,2025-02-27,West,Books,Notebook,1,21.43,0.0,21.43,14.48,6.95,New
+ORD1267,2025-02-28,North,Sports,Yoga Mat,3,50.09,0.1,135.25,114.19,21.06,New
+ORD1165,2025-02-28,North,Clothing,T-Shirt,5,19.8,0.1,89.1,50.38,38.72,New
+ORD1149,2025-02-28,East,Home & Kitchen,Desk Lamp,3,31.4,0.0,94.21,47.81,46.4,Returning
+ORD1137,2025-03-01,East,Home & Kitchen,Storage Box,1,61.4,0.1,55.26,43.79,11.47,New
+ORD1148,2025-03-01,South,Home & Kitchen,Cookware,3,48.19,0.05,137.33,108.73,28.6,Returning
+ORD1259,2025-03-01,South,Electronics,Power Bank,3,82.49,0.0,247.47,135.3,112.17,Returning
+ORD1082,2025-03-01,South,Electronics,Mouse,2,104.02,0.0,208.04,152.57,55.47,Returning
+ORD1035,2025-03-02,East,Electronics,Mouse,1,151.86,0.1,136.67,83.49,53.18,Returning
+ORD1045,2025-03-02,South,Home & Kitchen,Bottle,1,33.67,0.0,33.67,18.51,15.16,New
+ORD1221,2025-03-03,South,Books,Notebook,2,15.19,0.0,30.37,18.84,11.53,New
+ORD1176,2025-03-03,North,Sports,Yoga Mat,3,38.85,0.15,99.07,58.02,41.05,Returning
+ORD1071,2025-03-03,East,Books,Programming Book,4,24.23,0.0,96.9,69.4,27.5,New
+ORD1099,2025-03-04,West,Home & Kitchen,Cookware,5,50.12,0.05,238.06,141.67,96.39,New
+ORD1216,2025-03-04,North,Clothing,T-Shirt,4,45.7,0.0,182.78,128.6,54.18,New
+ORD1131,2025-03-05,West,Books,Notebook,5,31.95,0.15,135.79,123.76,12.03,New
+ORD1004,2025-03-07,South,Home & Kitchen,Bottle,5,58.59,0.1,263.64,157.71,105.93,New
+ORD1185,2025-03-08,South,Home & Kitchen,Cookware,3,32.71,0.1,88.31,63.42,24.89,New
+ORD1163,2025-03-08,East,Sports,Football,2,37.82,0.0,75.65,37.48,38.17,New
+ORD1091,2025-03-08,North,Sports,Football,5,8.55,0.0,42.75,21.15,21.6,Returning
+ORD1092,2025-03-10,North,Books,Programming Book,4,30.83,0.1,110.98,88.82,22.16,New
+ORD1219,2025-03-10,North,Home & Kitchen,Cookware,3,13.85,0.0,41.54,23.78,17.76,New
+ORD1126,2025-03-11,South,Sports,Water Bottle,2,28.02,0.05,53.24,36.67,16.57,Returning
+ORD1172,2025-03-11,West,Clothing,Sneakers,2,68.25,0.05,129.67,88.08,41.59,Returning
+ORD1083,2025-03-11,South,Sports,Football,3,68.76,0.05,195.96,151.63,44.33,New
+ORD1114,2025-03-11,North,Home & Kitchen,Desk Lamp,2,9.69,0.0,19.37,11.31,8.06,New
+ORD1238,2025-03-12,West,Electronics,Headphones,1,120.48,0.1,108.43,65.45,42.98,Returning
+ORD1058,2025-03-12,West,Home & Kitchen,Bottle,2,60.11,0.1,108.19,61.69,46.5,Returning
+ORD1084,2025-03-12,North,Clothing,Hoodie,1,40.68,0.15,34.58,27.23,7.35,New
+ORD1237,2025-03-14,West,Home & Kitchen,Storage Box,1,61.63,0.0,61.63,33.74,27.89,New
+ORD1042,2025-03-14,West,Home & Kitchen,Cookware,3,11.1,0.1,29.97,16.5,13.47,New
+ORD1107,2025-03-15,South,Sports,Yoga Mat,1,41.06,0.05,39.01,23.81,15.2,Returning
+ORD1081,2025-03-15,East,Electronics,Keyboard,2,154.19,0.05,292.96,208.08,84.88,Returning
+ORD1123,2025-03-16,East,Electronics,Keyboard,3,136.03,0.1,367.27,242.28,124.99,Returning
+ORD1117,2025-03-16,East,Sports,Water Bottle,3,14.76,0.1,39.84,32.94,6.9,Returning
+ORD1065,2025-03-16,North,Electronics,Headphones,4,21.99,0.1,79.16,60.94,18.22,New
+ORD1255,2025-03-17,North,Home & Kitchen,Bottle,3,15.18,0.1,40.99,25.43,15.56,New
+ORD1012,2025-03-17,West,Clothing,T-Shirt,3,72.28,0.1,195.16,130.52,64.64,New
+ORD1034,2025-03-19,South,Home & Kitchen,Bottle,5,40.76,0.15,173.24,147.01,26.23,Returning
+ORD1057,2025-03-19,South,Clothing,T-Shirt,4,9.01,0.05,34.23,26.22,8.01,New
+ORD1067,2025-03-21,West,Sports,Water Bottle,2,45.88,0.1,82.59,61.92,20.67,New
+ORD1171,2025-03-23,North,Home & Kitchen,Cookware,2,57.51,0.15,97.76,85.32,12.44,New
+ORD1129,2025-03-23,South,Home & Kitchen,Storage Box,2,16.15,0.05,30.68,20.04,10.64,New
+ORD1077,2025-03-26,North,Home & Kitchen,Cookware,4,5.64,0.0,22.57,14.39,8.18,New
+ORD1020,2025-03-26,West,Home & Kitchen,Desk Lamp,3,6.37,0.15,16.24,11.93,4.31,New
+ORD1008,2025-03-26,East,Electronics,Power Bank,1,16.21,0.1,14.59,11.02,3.57,Returning
+ORD1128,2025-03-27,West,Books,Novel,2,33.6,0.0,67.2,34.25,32.95,Returning
+ORD1245,2025-03-28,West,Sports,Yoga Mat,2,60.36,0.0,120.72,93.43,27.29,New
+ORD1198,2025-03-28,West,Home & Kitchen,Bottle,3,7.15,0.05,20.39,16.7,3.69,New
+ORD1017,2025-03-30,East,Home & Kitchen,Cookware,3,15.61,0.1,42.14,33.13,9.01,New
+ORD1192,2025-04-01,South,Clothing,Sneakers,5,38.71,0.0,193.53,139.98,53.55,New
+ORD1292,2025-04-01,East,Electronics,Power Bank,4,141.03,0.0,564.14,404.07,160.07,Returning
+ORD1032,2025-04-02,East,Electronics,Mouse,5,80.6,0.0,403.0,252.51,150.49,Returning
+ORD1298,2025-04-02,East,Electronics,Keyboard,2,48.03,0.1,86.45,51.33,35.12,New
+ORD1279,2025-04-02,North,Electronics,Mouse,5,17.95,0.15,76.27,68.7,7.57,Returning
+ORD1161,2025-04-02,East,Clothing,Jeans,1,76.27,0.0,76.27,46.3,29.97,New
+ORD1201,2025-04-03,South,Home & Kitchen,Cookware,1,63.13,0.0,63.13,33.89,29.24,Returning
+ORD1262,2025-04-03,South,Clothing,Hoodie,5,48.47,0.05,230.22,186.28,43.94,New
+ORD1064,2025-04-05,West,Electronics,Power Bank,4,46.85,0.0,187.41,129.87,57.54,Returning
+ORD1133,2025-04-05,East,Electronics,Headphones,2,41.45,0.1,74.61,54.32,20.29,New
+ORD1248,2025-04-05,West,Home & Kitchen,Storage Box,5,8.05,0.1,36.24,22.44,13.8,Returning
+ORD1178,2025-04-05,South,Electronics,Mouse,5,67.87,0.0,339.33,168.5,170.83,New
+ORD1001,2025-04-05,West,Books,Programming Book,3,30.62,0.1,82.66,46.68,35.98,Returning
+ORD1270,2025-04-06,West,Books,Planner,2,14.25,0.0,28.5,15.29,13.21,New
+ORD1140,2025-04-06,East,Sports,Yoga Mat,2,47.96,0.05,91.13,57.57,33.56,New
+ORD1093,2025-04-06,North,Clothing,T-Shirt,5,8.37,0.05,39.75,28.59,11.16,New
+ORD1253,2025-04-06,West,Electronics,Keyboard,1,178.32,0.0,178.32,92.68,85.64,Returning
+ORD1096,2025-04-07,North,Books,Notebook,5,34.96,0.0,174.81,105.3,69.51,New
+ORD1136,2025-04-07,East,Home & Kitchen,Cookware,4,56.08,0.1,201.89,130.51,71.38,New
+ORD1263,2025-04-07,East,Electronics,Headphones,1,15.09,0.0,15.09,10.73,4.36,New
+ORD1153,2025-04-08,South,Home & Kitchen,Desk Lamp,5,28.98,0.1,130.41,70.56,59.85,Returning
+ORD1022,2025-04-08,North,Clothing,Sneakers,3,9.77,0.1,26.38,21.95,4.43,New
+ORD1260,2025-04-08,South,Electronics,Power Bank,5,105.06,0.1,472.76,326.6,146.16,Returning
+ORD1276,2025-04-08,East,Electronics,Headphones,2,132.38,0.0,264.77,161.97,102.8,Returning
+ORD1063,2025-04-09,East,Electronics,Keyboard,2,35.61,0.05,67.66,50.11,17.55,Returning
+ORD1300,2025-04-10,North,Electronics,Headphones,5,71.54,0.0,357.69,224.76,132.93,New
+ORD1047,2025-04-10,East,Home & Kitchen,Storage Box,3,55.91,0.1,150.97,120.99,29.98,Returning
+ORD1167,2025-04-10,East,Books,Notebook,1,8.55,0.1,7.7,6.22,1.48,Returning
+ORD1112,2025-04-11,South,Electronics,Power Bank,4,156.16,0.0,624.62,471.99,152.63,Returning
+ORD1233,2025-04-12,South,Home & Kitchen,Storage Box,4,27.29,0.0,109.17,58.8,50.37,New
+ORD1269,2025-04-14,East,Home & Kitchen,Bottle,2,37.84,0.05,71.89,47.8,24.09,New
+ORD1215,2025-04-18,South,Home & Kitchen,Storage Box,4,45.31,0.15,154.06,107.17,46.89,Returning
+ORD1010,2025-04-19,North,Books,Programming Book,4,21.16,0.05,80.41,48.35,32.06,New
+ORD1134,2025-04-19,West,Home & Kitchen,Cookware,3,50.6,0.1,136.62,82.28,54.34,New
+ORD1014,2025-04-20,South,Books,Notebook,3,15.81,0.0,47.43,31.74,15.69,New
+ORD1055,2025-04-21,South,Home & Kitchen,Bottle,4,38.18,0.15,129.81,109.05,20.76,New
+ORD1188,2025-04-21,North,Sports,Skipping Rope,2,69.75,0.05,132.52,67.15,65.37,Returning
+ORD1145,2025-04-21,West,Books,Programming Book,3,24.46,0.05,69.71,45.63,24.08,New
+ORD1277,2025-04-22,East,Books,Programming Book,5,26.06,0.0,130.31,81.12,49.19,New
+ORD1202,2025-04-22,West,Electronics,Mouse,5,131.79,0.1,593.07,509.23,83.84,Returning
+ORD1258,2025-04-22,East,Clothing,Jeans,4,59.13,0.0,236.52,162.74,73.78,Returning
+ORD1100,2025-04-22,East,Home & Kitchen,Cookware,5,36.77,0.1,165.48,120.84,44.64,New
+ORD1273,2025-04-23,West,Clothing,T-Shirt,3,44.31,0.0,132.94,95.83,37.11,New
+ORD1043,2025-04-24,East,Sports,Skipping Rope,5,73.59,0.1,331.16,262.66,68.5,Returning
+ORD1105,2025-04-25,South,Home & Kitchen,Storage Box,3,23.75,0.0,71.26,36.59,34.67,New
+ORD1142,2025-04-25,West,Electronics,Power Bank,2,146.09,0.05,277.56,206.05,71.51,New
+ORD1236,2025-04-25,South,Clothing,T-Shirt,2,73.28,0.15,124.57,105.64,18.93,New
+ORD1266,2025-04-25,East,Sports,Skipping Rope,2,25.8,0.0,51.59,28.83,22.76,Returning
+ORD1225,2025-04-26,West,Clothing,Jeans,3,41.4,0.05,118.0,80.2,37.8,New
+ORD1009,2025-04-28,South,Home & Kitchen,Desk Lamp,3,13.39,0.0,40.16,27.33,12.83,New
+ORD1234,2025-04-28,South,Sports,Water Bottle,4,53.64,0.15,182.37,129.49,52.88,Returning
+ORD1135,2025-04-28,South,Sports,Water Bottle,1,24.25,0.1,21.83,12.95,8.88,New
+ORD1078,2025-04-28,North,Books,Planner,5,21.24,0.1,95.56,82.51,13.05,New
+ORD1157,2025-04-29,West,Home & Kitchen,Storage Box,2,40.16,0.0,80.32,43.82,36.5,Returning
+ORD1046,2025-05-01,West,Home & Kitchen,Storage Box,2,46.14,0.0,92.29,70.57,21.72,New
+ORD1095,2025-05-03,North,Clothing,Jeans,2,30.54,0.1,54.96,32.75,22.21,New
+ORD1051,2025-05-03,East,Clothing,T-Shirt,1,54.33,0.05,51.61,33.67,17.94,Returning
+ORD1180,2025-05-05,East,Clothing,Jeans,1,77.9,0.1,70.11,56.55,13.56,Returning
+ORD1288,2025-05-05,South,Books,Novel,1,12.88,0.0,12.88,7.89,4.99,New
+ORD1124,2025-05-06,West,Books,Programming Book,4,21.67,0.0,86.67,65.11,21.56,Returning
+ORD1156,2025-05-06,North,Books,Planner,4,27.64,0.05,105.03,68.21,36.82,Returning
+ORD1222,2025-05-07,South,Books,Novel,2,12.46,0.0,24.91,15.24,9.67,New
+ORD1281,2025-05-08,North,Clothing,Jeans,3,54.89,0.0,164.67,115.59,49.08,Returning
+ORD1147,2025-05-09,South,Sports,Football,3,51.54,0.0,154.62,118.17,36.45,Returning
+ORD1050,2025-05-10,East,Clothing,Jeans,4,73.2,0.15,248.88,162.8,86.08,New
+ORD1296,2025-05-11,West,Sports,Water Bottle,3,73.01,0.0,219.02,138.28,80.74,New
+ORD1184,2025-05-12,South,Home & Kitchen,Storage Box,3,42.99,0.15,109.62,97.99,11.63,New
+ORD1074,2025-05-12,South,Sports,Skipping Rope,1,25.36,0.0,25.36,13.49,11.87,Returning
+ORD1232,2025-05-12,West,Clothing,Jeans,5,11.17,0.0,55.84,35.5,20.34,New
+ORD1212,2025-05-13,East,Sports,Yoga Mat,3,38.98,0.0,116.93,58.47,58.46,New
+ORD1053,2025-05-13,West,Clothing,Hoodie,3,71.49,0.1,193.03,124.42,68.61,Returning
+ORD1040,2025-05-13,West,Clothing,Hoodie,4,40.28,0.0,161.11,101.72,59.39,Returning
+ORD1132,2025-05-14,East,Electronics,Power Bank,2,106.23,0.0,212.46,155.89,56.57,New
+ORD1152,2025-05-15,South,Electronics,Power Bank,3,130.73,0.15,333.36,260.03,73.33,Returning
+ORD1179,2025-05-16,North,Clothing,Jeans,2,80.85,0.15,137.44,82.45,54.99,New
+ORD1289,2025-05-17,North,Home & Kitchen,Storage Box,1,41.86,0.0,41.86,28.27,13.59,New
+ORD1224,2025-05-17,North,Clothing,Jeans,5,82.51,0.1,371.28,255.06,116.22,New
+ORD1015,2025-05-18,West,Electronics,Keyboard,5,164.92,0.1,742.12,461.57,280.55,Returning
+ORD1199,2025-05-18,West,Books,Programming Book,2,31.99,0.0,63.99,48.68,15.31,New
+ORD1275,2025-05-19,South,Clothing,Sneakers,5,48.51,0.0,242.57,151.16,91.41,New
+ORD1076,2025-05-19,East,Home & Kitchen,Desk Lamp,5,64.73,0.1,291.28,185.54,105.74,Returning
+ORD1229,2025-05-19,North,Electronics,Mouse,1,148.98,0.0,148.98,112.33,36.65,Returning
+ORD1127,2025-05-19,North,Sports,Water Bottle,3,19.58,0.0,58.73,35.13,23.6,New
+ORD1121,2025-05-19,West,Electronics,Headphones,4,100.84,0.0,403.35,204.99,198.36,New
+ORD1210,2025-05-19,East,Home & Kitchen,Bottle,4,45.37,0.0,181.48,99.56,81.92,New
+ORD1175,2025-05-20,East,Clothing,Sneakers,1,8.09,0.0,8.09,6.05,2.04,New
+ORD1002,2025-05-21,East,Books,Programming Book,1,17.96,0.0,17.96,13.62,4.34,Returning
+ORD1094,2025-05-21,West,Sports,Water Bottle,4,22.4,0.1,80.63,52.36,28.27,New
+ORD1044,2025-05-22,South,Electronics,Power Bank,3,99.85,0.1,269.59,185.37,84.22,Returning
+ORD1052,2025-05-22,North,Books,Programming Book,3,22.59,0.15,57.6,34.96,22.64,New
+ORD1018,2025-05-22,North,Clothing,T-Shirt,3,61.29,0.0,183.86,111.19,72.67,New
+ORD1191,2025-05-23,West,Books,Novel,3,20.63,0.15,52.61,47.6,5.01,New
+ORD1293,2025-05-23,South,Sports,Water Bottle,1,36.7,0.05,34.87,19.23,15.64,Returning
+ORD1249,2025-05-24,North,Sports,Football,2,42.66,0.1,76.79,47.24,29.55,New
+ORD1242,2025-05-24,North,Clothing,Hoodie,3,40.4,0.1,109.08,91.37,17.71,Returning
+ORD1182,2025-05-25,South,Sports,Football,3,40.06,0.15,102.16,71.42,30.74,Returning
+ORD1274,2025-05-26,East,Electronics,Mouse,5,105.67,0.0,528.33,285.74,242.59,Returning
+ORD1060,2025-05-26,North,Sports,Skipping Rope,1,22.62,0.0,22.62,16.13,6.49,Returning
+ORD1021,2025-05-26,South,Clothing,Hoodie,3,84.9,0.05,241.97,158.44,83.53,New
+ORD1247,2025-05-28,West,Books,Notebook,3,19.36,0.0,58.09,33.95,24.14,New
+ORD1141,2025-05-30,West,Sports,Yoga Mat,5,57.17,0.05,271.56,150.32,121.24,New
+ORD1033,2025-06-01,North,Home & Kitchen,Cookware,5,6.49,0.05,30.83,21.75,9.08,New
+ORD1231,2025-06-01,North,Home & Kitchen,Cookware,4,51.31,0.0,205.24,149.94,55.3,New
+ORD1069,2025-06-01,North,Home & Kitchen,Cookware,4,43.08,0.0,172.31,103.84,68.47,Returning
+ORD1026,2025-06-02,West,Electronics,Keyboard,3,178.74,0.1,482.6,377.82,104.78,Returning
+ORD1290,2025-06-02,East,Home & Kitchen,Storage Box,3,28.64,0.1,77.34,50.99,26.35,Returning
+ORD1062,2025-06-02,East,Sports,Yoga Mat,1,61.27,0.15,52.08,43.6,8.48,Returning
+ORD1170,2025-06-03,North,Electronics,Headphones,1,150.81,0.0,150.81,117.2,33.61,Returning
+ORD1154,2025-06-04,East,Clothing,Jeans,3,84.75,0.1,228.82,146.61,82.21,New
+ORD1011,2025-06-04,South,Electronics,Keyboard,3,155.81,0.0,467.43,232.54,234.89,New
+ORD1186,2025-06-05,North,Home & Kitchen,Desk Lamp,1,14.96,0.1,13.47,8.93,4.54,New
+ORD1108,2025-06-05,East,Sports,Water Bottle,2,28.25,0.0,56.5,35.26,21.24,New
+ORD1200,2025-06-06,East,Electronics,Headphones,5,40.7,0.05,193.33,153.59,39.74,New
+ORD1066,2025-06-07,East,Electronics,Keyboard,5,90.66,0.1,407.98,304.14,103.84,New
+ORD1139,2025-06-07,North,Sports,Yoga Mat,1,44.25,0.0,44.25,24.6,19.65,New
+ORD1256,2025-06-08,West,Sports,Water Bottle,2,53.34,0.1,96.01,53.69,42.32,New
+ORD1056,2025-06-08,East,Sports,Yoga Mat,4,71.63,0.0,286.53,210.65,75.88,New
+ORD1086,2025-06-08,South,Home & Kitchen,Bottle,4,43.03,0.15,146.29,114.64,31.65,Returning
+ORD1027,2025-06-09,North,Clothing,Jeans,2,71.31,0.1,128.35,84.44,43.91,Returning
+ORD1028,2025-06-10,North,Home & Kitchen,Bottle,5,19.46,0.0,97.29,70.96,26.33,New
+ORD1007,2025-06-11,South,Books,Novel,2,29.8,0.1,53.64,35.54,18.1,Returning
+ORD1005,2025-06-12,South,Electronics,Mouse,4,137.89,0.15,468.81,318.65,150.16,New
+ORD1013,2025-06-12,East,Electronics,Headphones,1,134.19,0.05,127.48,70.9,56.58,New
+ORD1038,2025-06-14,West,Clothing,Jeans,1,75.62,0.0,75.62,39.56,36.06,New
+ORD1181,2025-06-14,West,Electronics,Headphones,3,68.45,0.15,174.55,134.1,40.45,New
+ORD1122,2025-06-15,West,Books,Notebook,1,33.81,0.0,33.81,18.25,15.56,Returning
+ORD1268,2025-06-15,West,Books,Novel,2,17.63,0.15,29.98,27.35,2.63,Returning
+ORD1079,2025-06-15,North,Home & Kitchen,Storage Box,1,50.32,0.0,50.32,31.24,19.08,New
+ORD1048,2025-06-15,North,Home & Kitchen,Bottle,4,17.14,0.1,61.72,50.62,11.1,Returning
+ORD1254,2025-06-18,East,Books,Novel,4,31.35,0.05,119.12,79.83,39.29,New
+ORD1023,2025-06-18,West,Electronics,Mouse,4,61.4,0.1,221.05,171.46,49.59,New
+ORD1006,2025-06-19,South,Electronics,Keyboard,1,93.49,0.0,93.49,63.66,29.83,Returning
+ORD1150,2025-06-19,West,Clothing,Jeans,1,34.78,0.0,34.78,24.81,9.97,New
+ORD1194,2025-06-19,East,Books,Novel,2,13.42,0.1,24.15,13.07,11.08,New
+ORD1068,2025-06-20,South,Clothing,Hoodie,3,46.88,0.0,140.65,73.17,67.48,New
+ORD1041,2025-06-20,South,Electronics,Keyboard,1,54.06,0.0,54.06,35.21,18.85,New
+ORD1246,2025-06-20,North,Books,Novel,2,22.8,0.1,41.04,33.23,7.81,New
+ORD1037,2025-06-22,North,Home & Kitchen,Desk Lamp,2,19.2,0.1,34.56,27.84,6.72,New
+ORD1049,2025-06-22,West,Electronics,Mouse,4,28.94,0.15,98.4,60.34,38.06,Returning
+ORD1169,2025-06-23,North,Clothing,Jeans,2,25.97,0.0,51.95,36.65,15.3,New
+ORD1098,2025-06-23,East,Home & Kitchen,Bottle,1,17.12,0.0,17.12,10.54,6.58,New
+ORD1089,2025-06-23,South,Books,Programming Book,2,7.84,0.0,15.68,11.18,4.5,Returning
+ORD1030,2025-06-24,North,Electronics,Power Bank,1,52.89,0.0,52.89,36.14,16.75,New
+ORD1251,2025-06-24,East,Clothing,Jeans,2,80.82,0.1,145.48,94.54,50.94,New
+ORD1118,2025-06-25,West,Home & Kitchen,Desk Lamp,1,40.67,0.0,40.67,27.62,13.05,New
+ORD1061,2025-06-26,West,Clothing,Sneakers,1,8.45,0.0,8.45,5.59,2.86,New
+ORD1125,2025-06-27,South,Electronics,Headphones,2,137.69,0.0,275.39,213.09,62.3,Returning
+ORD1241,2025-06-27,North,Books,Novel,5,27.23,0.0,136.15,70.17,65.98,New
+ORD1197,2025-06-28,West,Home & Kitchen,Bottle,5,63.47,0.0,317.33,214.35,102.98,Returning
+ORD1025,2025-06-28,West,Home & Kitchen,Bottle,5,22.46,0.05,106.66,62.51,44.15,New
+ORD1227,2025-06-29,East,Home & Kitchen,Desk Lamp,2,41.38,0.15,70.34,48.28,22.06,New
+ORD1080,2025-06-29,East,Sports,Skipping Rope,1,22.07,0.0,22.07,13.84,8.23,New
